@@ -20,4 +20,6 @@ Period: 2
 
 Repository with algorithm exercises and code that were part of the Algorithms course.
 
+Language: Java
+
 Code by: Hugo Söderholm & Malte Enlund
